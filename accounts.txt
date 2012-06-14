@@ -1,0 +1,9 @@
+#
+#
+# 	File with SMTP accounts:
+#
+#	email:smtp_host:smtp_port:smtp_login:smtp_password
+#
+
+email1@test.com:smtp.test.com:25:login1:pass1
+email2@test.com:smtp.test.com:25:email2@test.com:pass2
